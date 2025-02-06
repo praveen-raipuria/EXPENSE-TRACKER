@@ -23,13 +23,16 @@ Date 📅
 Type (Expense/Income) 🏷️
 
 Delete Expense/Income
+
 Users should be able to delete an existing expense or income entry.
 
 Show Net Balance
+
 The application should calculate and display the net balance.
 Net balance is calculated as: Total Income - Total Expenses
 
 Files 📂
+
 index.html: The main HTML file for the Expense Tracker.
 index.css: The CSS file for styling the application.
 index.js: The JavaScript file for the application's functionality.
@@ -41,10 +44,12 @@ Installation 🚀
 3.Open index.html in a web browser to view the application.
 
 Usage 🛠️
+
 Open the application in a web browser.
 Use the form to add new transactions by entering the description, amount, date, and type.
 View and delete transactions from the history list.
 The balance, income, and expenses will update automatically based on your entries.
 
 Acknowledgements 🙏
+
 The design and functionality are inspired by various personal finance tools. Feel free to adjust the emojis or text as needed!
